@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&family=Roboto&display=swap');
+*{
+    font-family: Roboto;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    background-color: rgb(32, 32, 32);
+}
+
+h1, h2, h3, h4, h5, h6, p, ul, li{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 80vw;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+.panel{
+    height: 80vh;
+    flex: 0.6 0 0;
+    border-radius: 55px;
+    background-size: auto 80vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    transition: flex 1s ease-in;
+    position: relative;
+    cursor: pointer;
+}
+
+.panel > h3{
+    font-size: 24px;
+    color: white;
+    position: absolute;
+    bottom: 30px;
+    left: 20px;
+    opacity: 0;
+}
+
+
+.active{
+    flex: 5 0 0;
+}
+
+.active > h3{
+    opacity: 1;
+    transition: all 3s;
+}
+
+@media (max-width: 480px){
+    .container{
+        width: 90vw;
+    }
+
+    .panel:nth-of-type(4),.panel:nth-of-type(5){
+        display: none;
+    }
+}
