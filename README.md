@@ -2,5 +2,7 @@
 
 github html preview Links:
 
-01 | [Expanding cards]()
-02 | [Progress Steps]()
+|  #  | Porject Name        |
+|:---:|:-------------------:|
+| 01  | [Expanding cards]() |
+| 02  | [Progress Steps]()  |
