@@ -7,6 +7,7 @@
 body{
     margin: 0;
     background-color: rgb(100, 100, 100);
+    overflow-x: hidden;
 }
 
 img{
@@ -46,7 +47,6 @@ h1, h2, h3, h4, h5, h6, p, ul, li{
     position: relative;
     height: 200px;
     width: 200px;
-    /* background-color: #ff7979; */
     background-color: 	#CB9D06;
     border-radius: 50%;
     transition: transform 0.5s linear;
