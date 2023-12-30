@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&family=Roboto&display=swap');
+*{
+    font-family: Roboto;
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+    overflow: hidden;
+    background-color: rgb(32, 32, 32);
+}
+
+h1, h2, h3, h4, h5, h6, p, ul, li{
+    margin: 0;
+    padding: 0;
+}
+
+.search{
+    cursor: pointer;
+    height: 50px;
+    width: 50px;
+    background-color: white;
+    font-size: 24px;
+    padding: 12px 12px;
+    justify-content: center;
+    position: absolute;
+    transition: all 0.2s linear;
+}
+
+#search{
+    position: relative;
+    font-size: 18px;
+    padding: 10px;
+    height: 50px;
+    border: none;
+    width: 50px;
+    transition: all 0.2s linear;
+}
+
+#search:focus{
+    outline: none;
+}
+
+#search.active{
+    width: 250px;
+}
+
+.search.active{
+    transform: translateX(300%);
+}
