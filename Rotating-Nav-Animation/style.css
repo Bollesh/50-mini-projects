@@ -100,13 +100,13 @@ nav ul li{
 
 nav ul li + li{
     margin-left: 15px;
-    transform: translateX(-110px);
+    transform: translateX(-105px);
     transition: transform 0.3s linear;
 }
 
 nav ul li + li + li{
     margin-left: 30px;
-    transform: translateX(-120px);
+    transform: translateX(-110px);
     transition: transform 0.3s linear;
 }
 
