@@ -25,7 +25,7 @@ h1, h2, h3, h4, h5, h6, p, ul, li{
     --main-width: 50%;
     --hover-width: 75%;
     --other-width: 25%;
-    --transition-speed: 1.2s;
+    --transition-speed: 1s;
 }
 
 .container{
