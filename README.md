@@ -11,3 +11,4 @@ github html preview Links:
 |05|[Blurry Loading Screen](http://htmlpreview.github.io/?https://github.com/Bollesh/50-mini-projects/blob/main/Blurry-Loading-Screen/index.html)|
 |06|[Scroll Animation](https://htmlpreview.github.io/?https://github.com/Bollesh/50-mini-projects/blob/main/Scrolling-Animation/index.html)|
 |07|[Split Landing Page](https://htmlpreview.github.io/?https://github.com/Bollesh/50-mini-projects/blob/main/Split-Landing-Page/index.html)|
+|08|[Wave Form](http://htmlpreview.github.io/?file:///C:/Users/valla/OneDrive/Documents/Some%20front%20end%20shit/50-mini-projects/Wave-Form/index.html)|
