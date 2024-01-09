@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&family=Roboto&display=swap');
+*{
+    font-family: Roboto;
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+    background-color: rgb(41, 41, 41);
+    color: white;
+}
+
+p, ul, li{
+    margin: 0;
+    padding: 0;
+}
+
+.btnContainer{
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    transform: translateY(100%);
+    transition: all 1s ease-in-out;
+}
+
+button{
+    height: 75px;
+    padding: 0 40px;
+    font-size: 20px;
+    background-color: rgb(100, 100, 255);
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: rgb(116, 116, 255);
+    scale: 1.02;
+}
+
+button:active{
+    scale: 0.98;
+}
+
+.translateAnimation{
+    transform: translateY(0);
+}
