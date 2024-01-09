@@ -12,3 +12,4 @@ github html preview Links:
 |06|[Scroll Animation](https://htmlpreview.github.io/?https://github.com/Bollesh/50-mini-projects/blob/main/Scrolling-Animation/index.html)|
 |07|[Split Landing Page](https://htmlpreview.github.io/?https://github.com/Bollesh/50-mini-projects/blob/main/Split-Landing-Page/index.html)|
 |08|[Wave Form](http://htmlpreview.github.io/?https://github.com/Bollesh/50-mini-projects/blob/main/Wave-Form/index.html)|
+|09|[Soundboard](http://htmlpreview.github.io/?https://github.com/Bollesh/50-mini-projects/blob/main/Soundboard/index.html)|
