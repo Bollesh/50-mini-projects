@@ -28,6 +28,7 @@ p, ul, li{
     gap: 30px;
     transform: translateY(100%);
     transition: all 1s ease-in-out;
+    flex-wrap: wrap;
 }
 
 button{
