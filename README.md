@@ -13,3 +13,4 @@ github html preview Links:
 |07|[Split Landing Page](https://htmlpreview.github.io/?https://github.com/Bollesh/50-mini-projects/blob/main/Split-Landing-Page/index.html)|
 |08|[Wave Form](http://htmlpreview.github.io/?https://github.com/Bollesh/50-mini-projects/blob/main/Wave-Form/index.html)|
 |09|[Soundboard](http://htmlpreview.github.io/?https://github.com/Bollesh/50-mini-projects/blob/main/Soundboard/index.html)|
+|10|[Bad Jokes](http://htmlpreview.github.io/?https://github.com/Bollesh/50-mini-projects/blob/main/Bad-Jokes/index.html)|
