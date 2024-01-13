@@ -14,4 +14,4 @@ github html preview Links:
 |08|[Wave Form](http://htmlpreview.github.io/?https://github.com/Bollesh/50-mini-projects/blob/main/Wave-Form/index.html)|
 |09|[Soundboard](http://htmlpreview.github.io/?https://github.com/Bollesh/50-mini-projects/blob/main/Soundboard/index.html)|
 |10|[Bad Jokes](http://htmlpreview.github.io/?https://github.com/Bollesh/50-mini-projects/blob/main/Bad-Jokes/index.html)|
-|11|[event.key](http://htmlpreview.github.io/?https://github.com/Bollesh/50-mini-projects/tree/main/Expanding-Cards)|
+|11|[event.key](http://htmlpreview.github.io/?https://github.com/Bollesh/50-mini-projects/tree/main/Expanding-Cards/index.html)|
