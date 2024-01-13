@@ -15,6 +15,10 @@ body{
     background: linear-gradient(120deg, rgba(252,53,76,1) 0%, rgba(10,191,188,1) 100%);
 }
 
+::selection{
+    background-color: rgba(10,191,188,1);
+}
+
 h1, h2, h3, h4, h5, h6, p, ul, li{
     margin: 0;
     padding: 0;

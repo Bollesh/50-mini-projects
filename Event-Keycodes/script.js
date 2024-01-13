@@ -6,7 +6,6 @@ let eventKeyCode = document.querySelector("#keyCode > p");
 let eventCode = document.querySelector("#code > p");
 let innerTexts = document.querySelectorAll("p");
 let eventContainer = document.querySelector(".eventContainer")
-
 eventContainer.classList.add("invis");
 
 let numberOfKeysPressed = 0;
@@ -44,7 +43,12 @@ function texts(delay, event){
         innerText.style.opacity = "0";
         setTimeout(()=>{
             innerText.style.opacity = "1";
-            eventKey.innerHTML = `${event.key}`;
+            if(event.keyCode == 32){
+                eventKey.innerHTML = `Space`;
+            }
+            else{
+                eventKey.innerHTML = `${event.key}`;
+            }
             eventKeyCode.innerHTML = `${event.keyCode}`
             eventCode.innerHTML = `${event.code}`
         }, delay)
